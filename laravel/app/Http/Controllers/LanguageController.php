@@ -14,4 +14,4 @@ class LanguageController extends Controller
         }
         return redirect()->back();
     }
-}
+}   
